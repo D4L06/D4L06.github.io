@@ -50,7 +50,7 @@ $(function () {
     createPlatform(400, 100, 400, 15);
     createPlatform(200, 100, 150, 17);
     createPlatform(90, 200, 150, 17);
-    createPlatform(700, 100, 150, 20);
+    createPlatform(110, 400, 150, 20);
     
     
 
@@ -63,7 +63,7 @@ $(function () {
     createCollectable("diamond", 300, 100, 40, 0.5);
     createCollectable("kennedi", 450, 390, 20, 0.7);
     createCollectable("max", 150, 200, 30, 0.3);
-
+    createCollectable("steve", 200, 300, 10, 0.6)
 
 
     // TODO 3
